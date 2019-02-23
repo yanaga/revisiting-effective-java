@@ -1,7 +1,7 @@
 package com.redhat.developers;
 
 @FunctionalInterface
-public interface Function {
+public interface MyFunction {
 
     public int apply(int x);
 
